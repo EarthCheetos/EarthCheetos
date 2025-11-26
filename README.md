@@ -5,7 +5,7 @@
 
 <h4 align="left">
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/138128231?v=4"  />
-Senior IT Systems & Network Technician (Furry Techie 🐾)<br>
+IT Systems & Network Technician (Furry Techie 🐾)<br>
 Age: 18<br>
 Interests: Metal music, technology, PC hardware, and mixology<br>
 Background: Former Technician at PNA Tech<br>
