@@ -20,7 +20,7 @@ Education: 4th-year IT student at a Vocational College
 <div align="center">
 
   <!-- GitHub Stats -->
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earthcheetos" alt="earthcheetos" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earthcheetos&theme=darkhub&row=2&column=3" alt="earthcheetos " /></a> </p>
   <!-- Streak -->
   <img height="150" src="https://streak-stats.demolab.com?user=earthcheetos&theme=tokyonight&hide_border=false" />
 
