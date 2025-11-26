@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Earth</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h1 align="center">Hello, I'm Earth😈</h1>
+<h3 align="center">🔧 Network & Security System Technician, an old PC restoration hobbyist and a cheetah enjoyer 🇹🇭 From Thailand  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earthcheetos&label=Profile%20views&color=0e75b6&style=flat" alt="earthcheetos" /> </p>
 
