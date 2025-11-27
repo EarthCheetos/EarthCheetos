@@ -32,50 +32,96 @@ Education: 4th-year IT student at a Vocational College
 
 <div align="left">
   <a href="https://www.w3schools.com/js/" target="_blank">
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   </a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="55" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="55" alt="photoshop logo"  />
-  <img width="12" />
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
+  </a>
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
+  </a>
+  <a href="https://www.blender.org" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="55" alt="blender logo"  />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
+  </a>
+  <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo"  />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="intellij logo"  />
+  </a>
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    
+  </a>
+   <a href="https://www.adobe.com/th_th/products/photoshop/landpa.html?sdid=GVTYXXRQ&mv=search&mv2=paidsearch&ef_id=CjwKCAiA55rJBhByEiwAFkY1QNF6-ExqlCjEUlyGYlEHYK0GVFDh-jDehwtrHbd-jSLyOp1iPz6F8hoCmGcQAvD_BwE:G:s&s_kwcid=AL!3085!3!697578528708!e!!g!!photoshop!11255541990!111317682620&gad_source=1&gad_campaignid=11255541990&gclid=CjwKCAiA55rJBhByEiwAFkY1QNF6-ExqlCjEUlyGYlEHYK0GVFDh-jDehwtrHbd-jSLyOp1iPz6F8hoCmGcQAvD_BwE" target="_blank">
+     <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="55" alt="photoshop logo"  />
+   </a>
+   <a href="https://www.w3schools.com/php/" target="_blank">
+     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" alt="php logo"  />
-  <img width="12" />
+   </a>
+   <a href="https://www.w3schools.com/nodejs/" target="_blank">
+     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
-  <img width="12" />
+   </a>
+    <a href="https://www.w3schools.com/mongodb/" target="_blank">
+      <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo"  />
+    </a>
+     <a href="https://www.w3schools.com/mysql/" target="_blank">   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
-  <img width="12" />
+     </a>
+      <a href="https://www.w3schools.com/java/" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://www.adobe.com/th_th/products/illustrator/campaign/pricing.html?sdid=QQ42P3HM&mv=search&mv2=paidsearch&ef_id=CjwKCAiA55rJBhByEiwAFkY1QLFsg-ukTWhygS9iAe1z7Dfm5JX0-osGYYqFRk-EUbOhUc8SI5rZghoCKXoQAvD_BwE:G:s&s_kwcid=AL!3085!3!646841209381!e!!g!!illustrator!13183730849!120436961737&gad_source=1&gad_campaignid=13183730849&gclid=CjwKCAiA55rJBhByEiwAFkY1QLFsg-ukTWhygS9iAe1z7Dfm5JX0-osGYYqFRk-EUbOhUc8SI5rZghoCKXoQAvD_BwE" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="55" alt="illustrator logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://www.centos.org" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="55" alt="centos logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://www.figma.com" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://filezilla-project.org" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="55" alt="filezilla logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://www.w3schools.com/git/" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://about.gitlab.com" target="_blank">
+        <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="55" alt="gitlab logo"  />
-  <img width="12" />
+      </a>
+      <a href="https://www.w3schools.com/vue/" target="_blank">
+         <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="55" alt="vuejs logo"  />
+      </a>
 </div>
 
 
