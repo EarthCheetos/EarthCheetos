@@ -14,19 +14,27 @@ Education: 4th-year IT student at a Vocational College
 </h4>
 
 ---
-
 ## 🏆 GitHub Stats & Achievements
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earthcheetos&theme=darkhub&row=2&column=3" alt="earthcheetos " /></a> </p>
-  <!-- Streak -->
-  <img height="150" src="https://streak-stats.demolab.com?user=earthcheetos&theme=tokyonight&hide_border=false" />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=earthcheetos&show_icons=true&locale=en&layout=compact&theme=dark" alt="earthcheetos" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=earthcheetos&show_icons=true&locale=en&theme=dark" alt="earthcheetos" /></p>
+  <!-- ===== Row 1 ===== -->
+  <div>
+    <!-- Trophy -->
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=earthcheetos&theme=darkhub&row=1&column=3" alt="earthcheetos" />
+    </a>
+    <br/>
+    <img height="150" src="https://streak-stats.demolab.com?user=earthcheetos&theme=tokyonight&hide_border=false" />
+  </div>
+  <br/>
+  <div>
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=earthcheetos&show_icons=true&layout=compact&theme=dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=earthcheetos&show_icons=true&theme=dark" />
+  </div>
 
 </div>
+
 
 ---
 
