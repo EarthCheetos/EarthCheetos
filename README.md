@@ -3,7 +3,7 @@
 </div>
 <h2 align="left">Heyo! I'm Earth :3</h2>
 
-<h4 align="left">
+<p align="left">
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/138128231?v=4"  />
 IT Systems & Network Technician (Furry Techie 🐾)<br>
 Age: 18<br>
@@ -11,9 +11,8 @@ Interests: Metal music, technology, PC hardware, and mixology<br>
 Background: Former Technician at PNA Tech<br>
 Education: 4th-year IT student at a Vocational College
 
-</h4>
+</p>
 
----
 ## 🏆 GitHub Stats & Achievements
 
 <div align="center">
