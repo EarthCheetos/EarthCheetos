@@ -7,7 +7,7 @@
 <p align="left">
   <img align="right" height="150" alt="IMG_20240701_130030" src="https://github.com/user-attachments/assets/d6e73f55-7e6c-4b78-90bc-977f1ea6edb7" />
 IT Systems & Network Technician (Furry Techie 🐾)<br>
-Age: 18<br>
+Age: 19<br>
 Interests: Metal music, technology, PC hardware, and mixology<br>
 Background: Former Technician at PNA Tech<br>
 Education: 4th-year IT student at a Vocational College
